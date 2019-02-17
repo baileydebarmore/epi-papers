@@ -31,9 +31,7 @@ from the overall purpose of the analysis. All covariates listed in Table 1 were 
 
 **Great paper by Leslie to reference** - includes examples when a "significant" p-value shows no meaningful differences and vice versa. 
 
-[P-values and reproductive health: what can clinical research learn from the American Statistical Association?]
-(https://academic.oup.com/humrep/article/31/11/2406/2274306)
-
+[P-values and reproductive health: what can clinical research learn from the American Statistical Association?](https://academic.oup.com/humrep/article/31/11/2406/2274306)
 Citation: L. V. Farland, K. F. Correia, L. A. Wise, P. L. Williams, E. S. Ginsburg, S. A. Missmer; P-values and reproductive health: what can clinical researchers learn from the American Statistical Association?, Human Reproduction, Volume 31, Issue 11, 21 November 2016, Pages 2406–2410, https://doi.org/10.1093/humrep/dew192
 
 ### Advice from Timothy Lash (@TimothyLash), Editor-in-Chief of Epidemiology (LWW)
@@ -44,4 +42,4 @@ that contradict STROBE made by journals that endorse STROBE. Asking for -values 
 pointing that out to editors has worked."
 <p>
   
-[STROBE checklists at strobe-statement.org] (https://www.strobe-statement.org/index.php?id=available-checklists)
+[STROBE checklists at strobe-statement.org](https://www.strobe-statement.org/index.php?id=available-checklists)
