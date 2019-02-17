@@ -48,6 +48,13 @@ pointing that out to editors has worked."
   
 [STROBE checklists at strobe-statement.org](https://www.strobe-statement.org/index.php?id=available-checklists)
 
+[Explanatory paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040297)
+In the explanation for guideline 14a Give characteristics of study participants (e.g., demographic, clinical, social) and information on exposures and potential confounders:
+"Inferential measures such as standard errors and confidence intervals should not be used to describe the variability of characteristics, and **significance tests should be avoided in descriptive tables.** Also, P values are not an appropriate criterion for selecting which confounders to adjust for in analysis; even small differences in a confounder that has a strong effect on the outcome can be important [144,145]."
+
+Ciation: Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration 
+Vandenbroucke JP, von Elm E, Altman DG, Gøtzsche PC, Mulrow CD, et al. (2007) Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration. PLOS Medicine 4(10): e297. https://doi.org/10.1371/journal.pmed.0040297
+
 Check if the journal you're submitting to follows the STROBE guidelines [Link}(https://www.strobe-statement.org/index.php?id=strobe-endorsement)
 
 ### American Statistical Association's Statement on P-Values
@@ -74,4 +81,4 @@ Citation: Greenland S, Senn SJ, Rothman KJ, et al. [Statistical tests, P values,
 
 
 
-### 
+
