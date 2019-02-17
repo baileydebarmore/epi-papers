@@ -5,8 +5,10 @@
 
 ### Example from Thomas Bandholm (@TBandholm) - free to use
 <p>
+
 **Reviewer comment:** Table 1 - can you list P values, so we can see if there are differences between the two groups please? 
 <p>
+  
 **Author response:** Differences of opinion exist regarding performing significance tests of
 baseline differences and reporting of the associated p-values in the table of baseline characteristics
 (the classic Table 1). We left them out to comply with the CONSORT reporting checklist and elaboration paper (Moher et al 2010).
@@ -15,8 +17,8 @@ Rather, it is recommendd that comparisons at baseline is based on the conwiderat
 measured and the size of any chance imbalances
 that have occurred. 
 <p>
-[CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials] 
-(https://www.bmj.com/content/340/bmj.c869) <br>
+  
+[CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials](https://www.bmj.com/content/340/bmj.c869) 
 Citation: Moher David, Hopewell Sally, Schulz Kenneth F, Montori Victor, Gøtzsche Peter C, Devereaux P J et al. CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomised trials BMJ 2010; 340 :c869
 
 ### Explanation from Leslie Farland (@L_Farland)
