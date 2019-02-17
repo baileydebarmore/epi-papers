@@ -55,7 +55,7 @@ In the explanation for guideline 14a Give characteristics of study participants 
 Ciation: Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration 
 Vandenbroucke JP, von Elm E, Altman DG, Gøtzsche PC, Mulrow CD, et al. (2007) Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration. PLOS Medicine 4(10): e297. https://doi.org/10.1371/journal.pmed.0040297
 
-Check if the journal you're submitting to follows the STROBE guidelines [Link}(https://www.strobe-statement.org/index.php?id=strobe-endorsement)
+Check if the journal you're submitting to follows the STROBE guidelines [Link](https://www.strobe-statement.org/index.php?id=strobe-endorsement)
 
 ### American Statistical Association's Statement on P-Values
 
