@@ -1,5 +1,12 @@
 # Effect measure modification, interactions, and subgroups
 
+## Explanation of differences between interaction terms and stratifying, Buckley et al 2017
+Abstract excerpt: 
+**Objectives**: We discuss underlying assumptions and evaluate the performance of two traditional approaches for estimating sex-specific effects, stratification and product terms, and introduce a simple modeling alternative: an augmented product term approach.
+**Methods**: We describe the impact of assumptions regarding sexual heterogeneity of confounder relationships on estimates of sex-specific effects of the exposure of interest for three approaches: stratification, traditional product terms, and augmented product terms. Using simulated and applied examples, we demonstrate properties of each approach under a range of scenarios.
+
+Buckley JP, Doherty BT, Keil AP, Engel SM. [Statistical Approaches for Estimating Sex-Specific Effects in Endocrine Disruptors Research.](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP334?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) Environ Health Perspect. 2017;125(6):067013. Published 2017 Jun 23. doi:10.1289/EHP334
+
 ## STROBE Guidelines 
 "A third area of debate is how joint effects and interactions between risk factors should be evaluated: on additive or 
 multiplicative scales, or should the scale be determined by the statistical model that fits best (see also item 12b and Box 8)? 
@@ -20,7 +27,15 @@ for presenting interaction results, including the  HuGENet proposed lay-out for 
 [HuGENet reference](https://watermark.silverchair.com/1016.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkMwggI_BgkqhkiG9w0BBwagggIwMIICLAIBADCCAiUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMCRj4BHC4AV6YN2JOAgEQgIIB9gFjxnPEg3PTvyBiJotSn78SiC93KKR4fPcqEVGXJpelG4aNZFRvmjKHwehv166-AxEeVvh8fR3cUXIIfR4mYxJDe8FbuFs1CuVkHw-ClmDvhDvbbF9nEBs5DHxG_p8BbSI-nLRBVABpOj3HYepOnNNKByWgibnYu7anflGKMpwd__h8ySun7ka5INbmZGRLDRcIuBV1bGMQBZQVSgwkth5GxLvweEn1VQxAVoAWL0WgwoyWBG0e9MVwScdf6vP-465fMiGemTUrnhx1lNuz2QmpY5BnMb7kDQl1hZHlLA5X5CBnpig0wYDpcUyCzCLtnpU6kT9tibsEDdJzf2hPQ3T0i2v7SiNtvbBGafta2bi7pWYJFTlhS-Bwx1gWHhdCQf4Tn-EBqGdAAzY3h6l2751CRqvM1Y6GoGy9jhhUsOQEeEC9eXi1utzM11cnEbWHSBPjILmy6XVcosdOSeHKFCoE_eNuHIj2z3_7Vg9oekE1m3jZPhvt4gB9Q8wdEzNFKc40t3xAa2Xy9_Ymxkylh0ljwGTNwyIml6J6ccUP1pk3S8jm5ZZIjRtgMsmP0_xVqDf4F3GA5ccLK5vrNfEjaD7N4nxKV7nazZU9R3rfTru6cAao_daKVh9elhAmshS0cXaFEZDDaLy6L6ZhUJycVa261l_PU6I): Botto LD, Khoury MJ (2001) Commentary: facing the challenge of gene-environment interaction: the two-by-four table and beyond. Am 
 J Epidemiol 153: 1016–1020.
 
+Mentioned in Knol and Vanderwheele - "STROBE recommendations state that interaction analyses should be preferably presented as separate effects of the two risk factors and their joint effect using one reference category, because this gives enough information to the reader to calculate interaction on an additive and multiplicative scale."
+
 ## Recommendations for presenting analyses of effect modification and interaction
+Knol and Vanderwheele
+
+Includes example tables (for more than one category see supplementary material)
+
+Refers to STROBE guidelines: "STROBE recommendations state that interaction analyses should be preferably presented as separate effects of the two risk factors and their joint effect using one reference category, because this gives enough information to the reader to calculate interaction on an additive and multiplicative scale."
+
 [Link to page](https://academic.oup.com/ije/article/41/2/514/692957) 
 
 
