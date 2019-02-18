@@ -6,3 +6,5 @@ Current pages include:
 + p-values 
 
 + effect measure modification / interaction 
+
++ IPW
