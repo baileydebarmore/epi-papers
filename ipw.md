@@ -9,6 +9,7 @@ Resources for using IPW in your analyses
 Muñoz, I., & Van der Laan, M. (2012). [Population Intervention Causal Effects Based on Stochastic Interventions](https://www.jstor.org/stable/23270456?seq=1#metadata_info_tab_contents)
  Biometrics, 68(2), 541-549. Retrieved from http://www.jstor.org/stable/23270456
 
++ Try this stochastic method before deciding to categorize a continuous exposure (binned or binary)
 
 
 
