@@ -79,6 +79,7 @@ Select quotes:
 
 Citation: Greenland S, Senn SJ, Rothman KJ, et al. [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/) Eur J Epidemiol. 2016;31(4):337-50.
 
-
+---
+Contact me at bailey[dot]debarmore[at]gmail[dot]com
 
 
