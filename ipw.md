@@ -19,6 +19,15 @@ Epidemiology. 2010;21(4):528-39.
 
 + Continuous exposure with large amount of zeros; uses 2-stage approach for modeling weights
 
+### Binary Exposures
+Cole and Hernan 2008 walks through using IPW for measured confounding and selection bias and the 4 assumptions of "consistency, exchangeability, positivity, and no misspecification of the model used to estimate weights"
+
+Table 3 walks through how to construct the correct model specification for weighted model and compares the mean weight value (should be around 1.0)
+
+Also walks through the multiple models to construct for marginal structural models with HIV/HAART example
+
+Cole SR and Hernan MA. [Constructing inverse probability weights for marginal structural models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732954/pdf/kwn164.pdf) Am J Epidemiology 2008; 168(6):656-664.
+
 
 ### Continuous exposures 
 
